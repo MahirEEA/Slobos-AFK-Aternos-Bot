@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "HuzurSMP.enderman.cloud",
-    "port": 46513,
+    "ip": "HuzurSMP-NFNl.aternos.me",
+    "port": 12905,
     "version": "1.8.2",
     "try-creative": false
   },
@@ -37,7 +37,7 @@
       ]
     },
     "chat-log": false,
-    "auto-reconnect": true,
+    "auto-reconnect": false,
     "auto-reconnect-delay": 200000,
     "max-reconnect-delay": 1200000
   },
